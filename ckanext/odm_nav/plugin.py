@@ -18,7 +18,7 @@ import time
 from urlparse import urlparse
 import json
 import collections
-from genshi.template.text import NewTextTemplate
+#TODO from genshi.template.text import NewTextTemplate
 from ckan.lib.base import render
 from pprint import pprint
 log = logging.getLogger(__name__)
